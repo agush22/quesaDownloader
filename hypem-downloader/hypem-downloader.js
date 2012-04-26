@@ -1,7 +1,3 @@
-/*TO-DO
-> Bookmark javascript
-> Chrome extension
-*/
 
 $ = jQuery;
 
