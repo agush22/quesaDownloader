@@ -1,5 +1,7 @@
-Some JavaScript snippets that I have done in order to learn and have some reference for future developments.
+--quesaDownloader
 
-[Here are some demos](http://davoclavo.github.com/quesadillas)
+A Firefox extension that allows you to download songs from [The Hype Machine](http://hypem.com)
 
-[@davoclavo](http://twitter.com/davoclavo)
+Work in Progress
+
+Forked from (and using the javascript of): [@davoclavo](http://twitter.com/davoclavo)
