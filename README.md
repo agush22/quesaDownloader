@@ -1,4 +1,5 @@
---quesaDownloader
+quesaDownloader
+===============
 
 A Firefox extension that allows you to download songs from [The Hype Machine](http://hypem.com)
 
